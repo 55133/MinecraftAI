@@ -1,4 +1,4 @@
-package me.wyatt.minecraftai;
+package minecraftai;
 
 import com.google.gson.Gson;
 import com.google.gson.JsonArray;

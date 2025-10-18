@@ -4,7 +4,7 @@
                              http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>me.wyatt</groupId>
+    <groupId>minecraftai</groupId>
     <artifactId>MinecraftAI</artifactId>
     <version>1.0-SNAPSHOT</version>
 
@@ -68,11 +68,11 @@
                             <relocations>
                                 <relocation>
                                     <pattern>okhttp3</pattern>
-                                    <shadedPattern>me.wyatt.shaded.okhttp3</shadedPattern>
+                                    <shadedPattern>minecraftai.shaded.okhttp3</shadedPattern>
                                 </relocation>
                                 <relocation>
                                     <pattern>com.google.gson</pattern>
-                                    <shadedPattern>me.wyatt.shaded.gson</shadedPattern>
+                                    <shadedPattern>minecraftai.shaded.gson</shadedPattern>
                                 </relocation>
                             </relocations>
                         </configuration>
@@ -99,7 +99,7 @@
                     <archive>
                         <manifest>
                             <addClasspath>true</addClasspath>
-                            <mainClass>me.wyatt.minecraftai.Main</mainClass>
+                            <mainClass>minecraftai.Main</mainClass>
                         </manifest>
                     </archive>
                 </configuration>

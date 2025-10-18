@@ -1,5 +1,5 @@
 name: MinecraftAI
-main: me.wyatt.minecraftai.Main
+main: minecraftai.Main
 version: 1.0
 api-version: 1.20
 description: AI testing.

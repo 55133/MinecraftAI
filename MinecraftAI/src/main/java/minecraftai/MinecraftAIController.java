@@ -1,4 +1,4 @@
-package me.wyatt.minecraftai;
+package minecraftai;
 
 import org.bukkit.Bukkit;
 import org.bukkit.Location;

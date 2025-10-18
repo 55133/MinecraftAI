@@ -1,4 +1,4 @@
-package me.wyatt.minecraftai;
+package minecraftai;
 
 import net.citizensnpcs.api.CitizensAPI;
 import net.citizensnpcs.api.npc.NPC;
