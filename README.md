@@ -2,6 +2,6 @@ Minecraft 1.21.8 Paper - Download: https://fill-data.papermc.io/v1/objects/8de7c
 
 Using java 21 | cant use 22+ because paper will break - Download: https://www.oracle.com/java/technologies/downloads/#jdk21-windows
 
-Dependency: Citizens2 (free) - Download: https://www.spigotmc.org/resources/citizens.13811/
+Dependency: Citizens2 (free) - Download: https://ci.citizensnpcs.co/job/Citizens2/
 
 after creating the server place the MinecraftAI and Citizens2 .jars in the plugins folder
